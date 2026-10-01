@@ -1,0 +1,19 @@
+body {
+	font-family: system-ui, sans-serif;
+	display: grid;
+	place-content: center;
+	min-height: 100vh;
+	margin: 0;
+	text-align: center;
+	background:hsl(352, 22%, 50%);
+}
+button {
+	padding: 0.6rem 1.2rem;
+	font-size: 1rem;
+	border-radius: 8px;
+	border: 0;
+	background: #ec3750;
+	color: rgb(183, 49, 49);
+	cursor: pointer;
+}
+
